@@ -12,7 +12,7 @@ nav{
 
 body {background-color: black;}
 a {color: black;}
-main {background-color: #a5a8ac;}
+main {background-color: #f7f7f7;}
 header {background-color: #a5a8ac;}
 footer {background-color: #f7f7f7;}
 
@@ -81,7 +81,7 @@ footer {background-color: #f7f7f7;}
   font-size: 18px;
 }
 .back{
-  background-color: #f7f7f7;
+  background-color: #a5a8ac;
   color: black;
   padding: 15px 25px;
   text-align: center;
