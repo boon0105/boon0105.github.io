@@ -98,6 +98,13 @@ footer {background-color: #f7f7f7;}
 .swot-img {
   width: 300px;
 }
+.index-ul {
+  position: inherit;
+  background-color: #f7f7f7;
+  list-style-type: armenian;
+  overflow: auto;
+  text-decoration: none; 
+}
 ul {
   list-style-type: none;
   margin: 0;
