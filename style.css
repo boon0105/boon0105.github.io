@@ -109,6 +109,23 @@ footer {background-color: #f7f7f7;}
   text-decoration: underline;
   font-size: 18px;
 }
+.atos{
+  width: 450px;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto ;
+  background-color: #f7f7f7;
+  padding: 5px;
+}
+
+.grid-item {
+  background-color: #f7f7f7;
+
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+}
 table, th, td {
   border: 1px solid black;
 }
