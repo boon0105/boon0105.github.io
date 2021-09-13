@@ -1,6 +1,6 @@
 *{
  margin: 3px;
- padding: 0px;
+ padding: 2.8px;
 }
 
 nav{
@@ -129,7 +129,7 @@ footer {background-color: #f7f7f7;}
 table, th, td {
   border: 1px solid black;
 }
-ul {
+nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -138,24 +138,23 @@ ul {
   position: fixed;
   top: 0;
 }
-li {
+nav li {
   float: left;
 }
 
-ol li {
+nav ol li {
   float: none;
   margin-left: 15px;
 }
 
-
-ul li {
+nav ul li {
   list-style: none;
   display: inline-block;
   line-height: 50px; <!-- je moet ervoor zorgen dat dit hetzelfde aantal pixels is als je nav-heigt -->
 
 
 }
-ul li a {
+nav ul li a {
 display: block;
 font-family: 'arial';
 text-decoration: none;
@@ -163,7 +162,7 @@ font-size: 20px;
 padding: 0px 20px;
 }
 
-li a {
+nav li a {
   display: block;
   color: black;
   text-align: center;
@@ -171,7 +170,7 @@ li a {
   text-decoration: none;
 }
 
-li a:hover:not(.active) {
+nav li a:hover:not(.active) {
   background-color: grey;
 }
 .active{
