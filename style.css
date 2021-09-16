@@ -136,9 +136,10 @@ footer {background-color: #f7f7f7;}
 
 .grid-container-company {
   display: grid;
-  grid-template-columns: auto;
+  grid-template-columns: auto auto;
   background-color: #f7f7f7;
   padding: 5px;
+  grid-template-rows: 600px 600px;
 }
 
 .grid-item-company {
