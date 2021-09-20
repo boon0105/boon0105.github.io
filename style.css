@@ -192,7 +192,7 @@ nav ol li {
 nav ul li {
   list-style: none;
   display: inline-block;
-  line-height: 50px; <!-- je moet ervoor zorgen dat dit hetzelfde aantal pixels is als je nav-heigt -->
+  line-height: 50px;  /* dit aantal pixels moet altijd hetzelfde zijn als die van je nav */
 
 }
 nav ul li a {
@@ -212,7 +212,7 @@ nav li a {
 }
 
 nav li a:hover:not(.active) {
-  background-color: #00ceff;
+  background-color: royalblue;
 }
 
 .active{
