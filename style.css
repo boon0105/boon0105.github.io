@@ -19,7 +19,9 @@ header {
   background-color: #00ceff;
   margin-left: -21px;
 }
-footer {background-color: #f7f7f7;}
+footer {background-color: #f7f7f7;
+  padding: 10px;
+}
 
 
 .name {
@@ -168,6 +170,13 @@ footer {background-color: #f7f7f7;}
 }
 table, th, td {
   border: 1px solid black;
+}
+.pitch-pdf{
+  padding-left: 15%;
+  padding-right: 15%;
+  width: 70%;
+  height: 900px;
+
 }
 
 nav ul {
