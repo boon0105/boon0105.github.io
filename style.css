@@ -19,7 +19,7 @@ header {
   background-color: #b23850;
   margin-left: -21px;
 }
-footer {background-color: #e7e3d4;
+footer {background-color: #8590aa;
   padding: 10px;
 }
 
@@ -45,6 +45,9 @@ footer {background-color: #e7e3d4;
 .menu {
   background-color: #b23850;
   width: 100%;
+  border-left: black;
+  border-right: black;
+  border-bottom: black;
 
 }
 .main {
